@@ -1,1 +1,9 @@
 341 is a 3x4 pixel font with 1-bit color. 
+
+The characters are arranged in ASCII-order on a 19x15 grid:
+
+   !"#$%&'()*+,-./012
+  3456789:;<=>?@ABCDE
+  FGHIJKLMNOPQRSTUVWX
+  YZ[\]^_`abcdefghijk
+  lmnopqrstuvwxyz{|}~
